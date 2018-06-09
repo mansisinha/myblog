@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "myblog"
+baseurl: "/myblog"
 url: "https://mansisinha.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
