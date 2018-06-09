@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "C:\Users\Dell\myblog\assets\img\image.bmp"
+feature-img: "assets/img/image.bmp"
 ---
 
 Hello everyone
