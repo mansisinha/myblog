@@ -2,6 +2,7 @@
 layout: post
 title: First year 
 tags: [test, sample]
+feature-img: "assets/img/sample_feature_img_3.png"
 ---
 
 Like any other teenager, I was very excited on joining the college.
