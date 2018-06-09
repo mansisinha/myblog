@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "https://mansisinha.github.io/myblog/assets/img/sample_feature_img_2.png"
+feature-img: assets/img/sample_feature_img_2.png
 ---
 
 Hello everyone
