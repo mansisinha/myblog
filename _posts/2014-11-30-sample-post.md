@@ -3,11 +3,20 @@ layout: post
 title: First year 
 tags: [test, sample]
 ---
-I would begin with talking about my life before JEE.
-So like most of us, I was preparing for JEE since 11th standard but I used to attend school and enjoy there too. School was the place to relax and hangout with friends. I had an amazing school life since I had the most notorious bunch of friends.
-Then JEE 2016 happened.
-Even though I secured a rank in JEE Advance 2016, I realised that this was not what I aimed for. I was disappointed. I felt like a failure.
-And now when I look at it, I realise that that was the failure that I needed. That made me serious towards studies and made me realise the intensity of the competition. I decided to give it another shot and this time, I did study hard. So as expected, I passed this time with a good rank and joined the course of Mathematics and Computing at IIT Kharagpur.
+
 Like any other teenager, I was very excited on joining the college.
-I spent my first year exploring the campus, the vast range of opportunities, the different types of societies, the inspiring people.
-First year was more of a fresh learning experience. Learning things that can not be found in books.
+
+I spent my first year exploring the beautiful campus, the vast range of opportunities, meeting new people, making new friends, joining different types of societies, meeting some really inspiring people.
+
+One of the initial difficulties I had in college was to cycle to the classes in such a huge campus. That too in such hot and humid environment. But slowly, I became used to it and now, I've explored almost the entire campus.
+
+Then I joined a few societies like Debating Society, Business Club, KOSS and IR cell. I met a few amazing Seniors through these societies. Here at Kgp, Seniors help their juniors in every way they can.
+
+Currently, I'm a part of KOSS and DebSoc.
+
+KOSS is the place where I got to learn a lot about open source. It is the open source society of IIT Kgp. There are a bunch of people like me who are enthusiastic about open source, coding etc. It's a great medium to learn and grow with alike people.
+
+DebSoc, on the other hand is about debating, having a firm opinion about issues that matter. It helped me improve as a speaker and increased my knowledge regarding the current issues.
+
+
+So overall, first year was an amazing learning experience. I learnt a lot of things that can't be found in books.
