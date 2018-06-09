@@ -5,6 +5,11 @@ permalink: /about/
 feature-img: "assets/img/sample_feature_img_2.png"
 ---
 
-This is the blog of Mansi Sinha, a first year undergraduate from the department of Mathematics at IIT Kharagpur.
-The main aim of this blog is to summarize the experiences and things learnt at IIT kharagpur so far.
-I hope you like it.
+Hello everyone
+
+I am Mansi Sinha, second year undergraduate from the department of Mathematics at IIT Kharagpur. I am enrolled in its 5 year integrated course of mathematics and computing.
+
+With this blog, I would like to share my experience at IIT Kharagpur.
+
+I hope you enjoy reading.
+ 
